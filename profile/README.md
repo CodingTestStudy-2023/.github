@@ -1,6 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CodingTestStudy&fontSize=70" />
 <br>
+  ⭐️ 공지 ⭐️
+  <br>
+  파일 네이밍 시 문제번호 말고 B_문제번호로 설정 부탁합니다 :)
 <br>
 <h1> 스터디원 </h1>
 <br>
