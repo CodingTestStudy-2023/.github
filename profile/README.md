@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CodingTestStudy&fontSize=70" />
 <br>
 <br>
-<h1> Member </h1>
+<h1> 스터디원 </h1>
 <br>
 <br>
 <p>👩🏻‍💻 박은경 👩🏻‍💻</p> 
@@ -12,7 +12,7 @@
 <p>🧑🏻‍💻 권동휘 🧑🏻‍💻</p> 
 <br>
 <br>
-<h1>진행방법</h1>  
+<h1> 진행방법 </h1>  
 <br>
 <br>
 <p>1. 매주 토요일 13시 오프라인</p>
@@ -21,7 +21,6 @@
 
 <p>3. 질의응답</p>
 
-<br>
 <br>
 <br>
 
